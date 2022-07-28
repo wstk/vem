@@ -44,4 +44,8 @@ vem -h
 
 ## Author
 
-[Will King Stokes](william.stokes@es.catapult.org.uk). Any bugs or issues let me know.
+Will King Stokes, willstokes88@gmail.com. Any bugs or issues let me know.
+
+## License
+
+GNU GPL 3.0
