@@ -9,7 +9,7 @@
 
 @echo off
 
-IF "%1" == "" (SET VENV=venv*) ELSE (SET VENV=%1)
+IF "%1" == "" (SET VENV=*venv*) ELSE (SET VENV=%1)
 IF "%1" == "-n" (GOTO NEW)
 IF "%1" == "-s" (GOTO SHOW)
 IF "%1" == "off" (GOTO DEACTIVATE)
